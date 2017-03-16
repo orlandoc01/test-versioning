@@ -1,2 +1,2 @@
-This is an initial text
+This is an initial text.
 Develop adds a new line
